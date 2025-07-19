@@ -1,6 +1,6 @@
 
 # 👋 Hi there, I'm Mohammed Ibraheem Elazzazy
-🎓 Computer Engineering Student at Zagazig University (Graduating July 2025)  
+🎓 a Computer Engineering fresh graduate from Zagazig University (Graduating July 2025)  
 ⚡ Passionate about Backend Development, Software Engineering, and Problem Solving  
 🌱 I’m currently learning backend development using C# & .NET Framework
 👯 I’m looking to collaborate on software projects that involve building scalable and maintainable systems.
