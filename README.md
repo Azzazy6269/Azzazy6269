@@ -1,12 +1,15 @@
+👋 Hi there, I'm Mohammed Ibraheem Elazzazy
 
-# 👋 Hi there, I'm Mohammed Ibraheem Elazzazy
-🎓 A Computer Engineering fresh graduate from Zagazig University (Graduated July 2025)  
-⚡ Passionate about Backend Development, Software Engineering, and Problem Solving  
-🌱 I’m currently learning backend development using C# & .NET Framework
-👯 I’m looking to collaborate on software projects that involve building scalable and maintainable systems.
+🎓 Computer Engineering Graduate — Zagazig University (Class of 2025)
+💻 Passionate about Open-Source Technologies, Linux, DevOps, and Backend Engineering
+🌱 Currently enrolled in the Information Technology Institute (ITI) — Open Source Track
+🚀 Exploring system design, containerization, CI/CD, and cloud-native development
+🤝 I’m looking to collaborate on open-source projects and backend-focused systems.
 
-- 📫 How to reach me:
-  - 📧 Gmail: mohamadelazzazy@gmail.com  
-  - 💼LinkedIn : https://www.linkedin.com/in/muhammad-elazzazy-1b9315254/
+📫 How to reach me:
 
-“I don't just write code — I build systems that talk, react, and solve real-world problems.”
+📧 Gmail: mohamadelazzazy@gmail.com
+
+💼 LinkedIn: www.linkedin.com/in/mohammed-elazzazy-1b9315254
+
+“I build reliable systems, automate workflows, and contribute to technology that scales.”
