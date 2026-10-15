@@ -1,10 +1,14 @@
 👋 Hi there, I'm Mohammed Ibraheem Elazzazy
 
-🎓 Computer Engineering Graduate — Zagazig University (Class of 2025)
-💻 Passionate about Open-Source Technologies, Linux, DevOps, and Backend Engineering
-🌱 Currently enrolled in the Information Technology Institute (ITI) — Open Source Track
-🚀 Exploring system design, containerization, CI/CD, and cloud-native development
-🤝 I’m looking to collaborate on open-source projects and backend-focused systems.
+Highly motivated Web Developer and Computer Engineer expert in building scalable, high-performance web applications.
+Driven by modern frontend/backend technologies, clean code, and creating seamless, user-centric digital experiences that
+solve complex enterprise challenges.
+
+Information Technology Institute (ITI) Oct 2025 – Aug 2026
+9-Month Professional Diploma – Open Source Applications Development
+
+Faculty of Engineering, Zagazig University Oct 2020 – Jul 2025
+B.S. in Computer and Systems Engineering – Good
 
 📫 How to reach me:
 
