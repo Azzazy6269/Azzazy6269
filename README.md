@@ -5,9 +5,11 @@ Driven by modern frontend/backend technologies, clean code, and creating seamles
 solve complex enterprise challenges.
 
 Information Technology Institute (ITI) Oct 2025 – Aug 2026
+
 9-Month Professional Diploma – Open Source Applications Development
 
 Faculty of Engineering, Zagazig University Oct 2020 – Jul 2025
+
 B.S. in Computer and Systems Engineering – Good
 
 📫 How to reach me:
